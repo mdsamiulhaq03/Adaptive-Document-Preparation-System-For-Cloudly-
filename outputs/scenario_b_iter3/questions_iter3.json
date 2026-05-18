@@ -1,0 +1,128 @@
+{
+  "iteration": 3,
+  "sessionId": "0fff9580-d4ae-4896-8977-aa33b54d21fe",
+  "sections": [
+    "8"
+  ],
+  "isAdaptive": true,
+  "weakTopicsUsed": [
+    {
+      "topic": "Cuartel Valparaíso",
+      "wrongCount": 2
+    },
+    {
+      "topic": "Primary Base",
+      "wrongCount": 1
+    },
+    {
+      "topic": "Facility Details",
+      "wrongCount": 1
+    }
+  ],
+  "generatedAt": "2026-05-18T13:15:30.741Z",
+  "usedMockLLM": false,
+  "questions": [
+    {
+      "questionDbId": "6a0b10f275fc83e6163f5961",
+      "sectionId": "8",
+      "question": "What is the primary function of the regional CBMP medical office located in Cuartel Valparaíso?",
+      "choices": [
+        "A. To provide medical support to Cell Halcón",
+        "B. To conduct research on local diseases",
+        "C. To develop new medical treatments",
+        "D. To store medical supplies"
+      ],
+      "correctAnswer": "A",
+      "simulatedUserAnswer": "B",
+      "isCorrect": false,
+      "explanation": "The regional CBMP medical office is located in Cuartel Valparaíso, which is the primary operational base of the asset, and its primary function is to provide medical support to Cell Halcón. The other options are not mentioned in the text and are therefore incorrect.",
+      "topicTags": [
+        "Cuartel Valparaíso",
+        "Facility Details"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10f275fc83e6163f5962",
+      "sectionId": "8",
+      "question": "How often are the micro-cache locations rotated, and when will the next review take place?",
+      "choices": [
+        "A. Every 12 months, with the next review in 2026",
+        "B. Every 36 months, with the next review in 2027",
+        "C. Every 24 months, with the next review in 2028",
+        "D. Every 48 months, with the next review in 2029"
+      ],
+      "correctAnswer": "B",
+      "simulatedUserAnswer": "B",
+      "isCorrect": true,
+      "explanation": "The micro-cache locations are rotated every 36 months, and the current placements were finalized in 2024, which means the next review will take place in 2027. The other options are incorrect because they do not match the information provided in the text.",
+      "topicTags": [
+        "Micro-Cache Network",
+        "Operational Territory"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10f275fc83e6163f5963",
+      "sectionId": "8",
+      "question": "What is the purpose of the standardized provisioning standard for the safehouses, and who audits it?",
+      "choices": [
+        "A. To provide a minimum level of supplies, audited by the asset",
+        "B. To provide a maximum level of supplies, audited by Cpl. Vendrame",
+        "C. To provide a standardized level of supplies, audited by Cpl. Vendrame",
+        "D. To provide a variable level of supplies, audited by the asset"
+      ],
+      "correctAnswer": "C",
+      "simulatedUserAnswer": "A",
+      "isCorrect": false,
+      "explanation": "The standardized provisioning standard for the safehouses is designed to provide a consistent level of supplies, and it is audited semi-annually by Cpl. Vendrame. The other options are incorrect because they do not accurately reflect the purpose or auditing process of the provisioning standard.",
+      "topicTags": [
+        "Operational Safehouses",
+        "Facility Details"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10f275fc83e6163f5964",
+      "sectionId": "8",
+      "question": "What is the total number of micro-caches maintained by the asset across the Andean cordillera?",
+      "choices": [
+        "A. 15 micro-caches",
+        "B. 19 micro-caches",
+        "C. 20 micro-caches",
+        "D. 25 micro-caches"
+      ],
+      "correctAnswer": "B",
+      "simulatedUserAnswer": "B",
+      "isCorrect": true,
+      "explanation": "The asset maintains a network of 19 micro-caches distributed across the Andean cordillera. The other options are incorrect because they do not match the total number of micro-caches mentioned in the text.",
+      "topicTags": [
+        "Micro-Cache Network",
+        "Operational Territory"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10f275fc83e6163f5965",
+      "sectionId": "8",
+      "question": "What type of cover is used by Safehouse S-5, located in Cuzco, Peru?",
+      "choices": [
+        "A. Urban apartment cover",
+        "B. Industrial cover",
+        "C. Religious-order cover",
+        "D. Coastal cover"
+      ],
+      "correctAnswer": "C",
+      "simulatedUserAnswer": "B",
+      "isCorrect": false,
+      "explanation": "Safehouse S-5, located in Cuzco, Peru, uses a religious-order cover, specifically Hermana Mendieta. The other options are incorrect because they do not match the type of cover used by Safehouse S-5.",
+      "topicTags": [
+        "Operational Safehouses",
+        "Primary Base"
+      ]
+    }
+  ],
+  "score": {
+    "total": 5,
+    "correct": 2,
+    "wrong": 3,
+    "scorePct": 40
+  },
+  "adaptiveBehaviorNote": "Adaptive: questions focused on \"Cuartel Valparaíso\", \"Primary Base\", \"Facility Details\""
+}

@@ -1,0 +1,320 @@
+{
+  "iteration": 2,
+  "sessionId": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+  "sections": [
+    "6",
+    "8",
+    "9"
+  ],
+  "isAdaptive": true,
+  "weakTopicsUsed": [
+    {
+      "topic": "Cuartel Valparaíso",
+      "wrongCount": 2
+    },
+    {
+      "topic": "Primary Base",
+      "wrongCount": 1
+    },
+    {
+      "topic": "Facility Details",
+      "wrongCount": 1
+    }
+  ],
+  "generatedAt": "2026-05-18T13:15:04.098Z",
+  "usedMockLLM": false,
+  "questions": [
+    {
+      "questionDbId": "6a0b10d375fc83e6163f5951",
+      "sectionId": "6",
+      "question": "What is the primary role of the Cooperative Bureau of Metahuman Physics (CBMP) within the Pan-American Metahuman Cooperative (PAMC)?",
+      "choices": [
+        "A. To oversee the Operations Directorate",
+        "B. To conduct research on metahuman physics",
+        "C. To manage the Logistics Directorate",
+        "D. To provide Behavioral Health services"
+      ],
+      "correctAnswer": "B",
+      "simulatedUserAnswer": "B",
+      "isCorrect": true,
+      "explanation": "The CBMP is one of the four directorates of the PAMC, and its name suggests a focus on metahuman physics research. The other options are incorrect because the CBMP is not responsible for overseeing the Operations Directorate, managing the Logistics Directorate, or providing Behavioral Health services.",
+      "topicTags": [
+        "PAMC Directorates",
+        "CBMP"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10d375fc83e6163f5952",
+      "sectionId": "6",
+      "question": "What is the metahuman classification of Lt. Solène Bauer-Cortez, and what is her corresponding ability?",
+      "choices": [
+        "A. Class A-1, superhuman strength",
+        "B. Class C-1, electromagnetic sensing",
+        "C. Class B-2, enhanced agility",
+        "D. Class D-3, telepathy"
+      ],
+      "correctAnswer": "B",
+      "simulatedUserAnswer": "B",
+      "isCorrect": true,
+      "explanation": "According to the text, Lt. Solène Bauer-Cortez has a metahuman classification of Class C-1, which corresponds to electromagnetic sensing, allowing her to perceive EM emissions from 30 Hz to 6 GHz within 80 m.",
+      "topicTags": [
+        "Metahuman Classifications",
+        "Cell Halcón Members"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10d375fc83e6163f5953",
+      "sectionId": "6",
+      "question": "What is the significance of the Treaty of Quito in the context of the Pan-American Metahuman Cooperative (PAMC)?",
+      "choices": [
+        "A. It established the PAMC as a subsidiary of the United Nations",
+        "B. It founded the PAMC through an agreement among nine Western Hemisphere states",
+        "C. It marked the beginning of the PAMC's Operations Directorate",
+        "D. It led to the dissolution of the PAMC"
+      ],
+      "correctAnswer": "B",
+      "simulatedUserAnswer": "C",
+      "isCorrect": false,
+      "explanation": "The Treaty of Quito is mentioned in the text as the founding document of the PAMC, signed by nine Western Hemisphere states on 22 May 2014.",
+      "topicTags": [
+        "PAMC History",
+        "Treaty of Quito"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10d375fc83e6163f5954",
+      "sectionId": "6",
+      "question": "What is the role of Cpl. Raúl Vendrame within Cell Halcón, and what is his area of expertise?",
+      "choices": [
+        "A. Lead Officer, metahuman physics",
+        "B. Technical Specialist, electrical engineering",
+        "C. Field Medic, trauma surgery and altitude medicine",
+        "D. Tracker, high-altitude reconnaissance"
+      ],
+      "correctAnswer": "C",
+      "simulatedUserAnswer": "D",
+      "isCorrect": false,
+      "explanation": "Cpl. Raúl Vendrame is the Field Medic of Cell Halcón, with expertise in trauma surgery, altitude medicine, and metahuman physiology, as stated in the text.",
+      "topicTags": [
+        "Cell Halcón Members",
+        "Medical Expertise"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10d375fc83e6163f5955",
+      "sectionId": "6",
+      "question": "Who is the Director-General of the Pan-American Metahuman Cooperative (PAMC), and what is the duration of their term?",
+      "choices": [
+        "A. María-Elena Espósito-Tagle, 2020-2025",
+        "B. Aída Salvatierra-Bunge, 2022-2027",
+        "C. María-Elena Espósito-Tagle, 2022-2027",
+        "D. Director Salvatierra, 2015-2020"
+      ],
+      "correctAnswer": "C",
+      "simulatedUserAnswer": "C",
+      "isCorrect": true,
+      "explanation": "The text states that María-Elena Espósito-Tagle is the Director-General of the PAMC, serving a term from 2022 to 2027.",
+      "topicTags": [
+        "PAMC Leadership",
+        "Director-General"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10d575fc83e6163f5956",
+      "sectionId": "8",
+      "question": "What is the primary function of Cuartel Valparaíso, the asset's primary operational base?",
+      "choices": [
+        "A. Logistics-only annex",
+        "B. PAMC Headquarters",
+        "C. Field office for Bolivian altiplano operations",
+        "D. PAMC South Cone Headquarters"
+      ],
+      "correctAnswer": "D",
+      "simulatedUserAnswer": "D",
+      "isCorrect": true,
+      "explanation": "Cuartel Valparaíso is designated as PAMC South Cone Headquarters, indicating its primary function as the main hub for the asset's operations in the region. The other options are incorrect as they describe different facilities or functions.",
+      "topicTags": [
+        "Cuartel Valparaíso",
+        "Primary Base"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10d575fc83e6163f5957",
+      "sectionId": "8",
+      "question": "What type of cover does Safehouse S-5 provide, and in which region is it located?",
+      "choices": [
+        "A. Industrial cover in Argentina",
+        "B. Religious-order cover in Peru",
+        "C. Coastal cover in Chile",
+        "D. Urban apartment cover in Bolivia"
+      ],
+      "correctAnswer": "B",
+      "simulatedUserAnswer": "B",
+      "isCorrect": true,
+      "explanation": "Safehouse S-5 is located in Cuzco, Peru, and provides a religious-order cover, specifically as Hermana Mendieta. The other options are incorrect as they describe different safehouses or locations.",
+      "topicTags": [
+        "Safehouse S-5",
+        "Operational Safehouses"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10d575fc83e6163f5958",
+      "sectionId": "8",
+      "question": "How often are the micro-cache locations rotated, and when were the current placements finalized?",
+      "choices": [
+        "A. Every 12 months, finalized in 2022",
+        "B. Every 36 months, finalized in 2024",
+        "C. Every 24 months, finalized in 2023",
+        "D. Every 48 months, finalized in 2020"
+      ],
+      "correctAnswer": "B",
+      "simulatedUserAnswer": "B",
+      "isCorrect": true,
+      "explanation": "The micro-cache locations are rotated every 36 months, and the current placements were finalized in 2024. The other options are incorrect as they describe different rotation periods or finalization dates.",
+      "topicTags": [
+        "Micro-Cache Network",
+        "Facility Details"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10d575fc83e6163f5959",
+      "sectionId": "8",
+      "question": "What is the total floor area of Cuartel Valparaíso, and what is its personnel capacity?",
+      "choices": [
+        "A. 3,000 m², 20 residential and 100 working",
+        "B. 4,820 m², 38 residential and 142 working",
+        "C. 5,500 m², 50 residential and 200 working",
+        "D. 2,500 m², 15 residential and 50 working"
+      ],
+      "correctAnswer": "B",
+      "simulatedUserAnswer": "B",
+      "isCorrect": true,
+      "explanation": "Cuartel Valparaíso has a total floor area of 4,820 m² and a personnel capacity of 38 residential and 142 working. The other options are incorrect as they describe different floor areas or capacities.",
+      "topicTags": [
+        "Cuartel Valparaíso",
+        "Facility Details"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10d575fc83e6163f595a",
+      "sectionId": "8",
+      "question": "What is the purpose of the standardized provisioning standard for the safehouses, and who audits it?",
+      "choices": [
+        "A. To provide a 30-day ration supply for 2 personnel, audited by the asset",
+        "B. To provide a 30-day ration supply for 4 personnel, audited by Cpl. Vendrame",
+        "C. To provide a 60-day ration supply for 6 personnel, audited by the cell leader",
+        "D. To provide a 90-day ration supply for 8 personnel, audited by PAMC Headquarters"
+      ],
+      "correctAnswer": "B",
+      "simulatedUserAnswer": "B",
+      "isCorrect": true,
+      "explanation": "The standardized provisioning standard for the safehouses is designed to provide a 30-day ration supply for 4 personnel, and it is audited semi-annually by Cpl. Vendrame on behalf of the cell. The other options are incorrect as they describe different ration supplies or auditing procedures.",
+      "topicTags": [
+        "Operational Safehouses",
+        "Facility Details"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10d875fc83e6163f595b",
+      "sectionId": "9",
+      "question": "What is the primary purpose of the uniform PAMC format for case files?",
+      "choices": [
+        "A. To provide a template for declassifying sensitive information",
+        "B. To standardize the reporting of case details and outcomes",
+        "C. To facilitate the rotation of micro-cache locations",
+        "D. To evaluate the performance of safehouses"
+      ],
+      "correctAnswer": "B",
+      "simulatedUserAnswer": "A",
+      "isCorrect": false,
+      "explanation": "The uniform PAMC format is used to standardize the reporting of case details and outcomes, making it easier to compare and analyze different cases. This format includes key information such as case number, date, location, classification, outcome, and casualties. The other options are not directly related to the purpose of the PAMC format.",
+      "topicTags": [
+        "Case File Format",
+        "PAMC"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10d875fc83e6163f595c",
+      "sectionId": "9",
+      "question": "Which case led to the formal articulation of the Doctrine of Sequential Suspension?",
+      "choices": [
+        "A. Case 2019-0017: Probationary Assessment",
+        "B. Case 2020-0048: Antofagasta Containment",
+        "C. Case 2022-0123: Tropopausa First Engagement",
+        "D. Case 2023-0067: El Sereno Pursuit"
+      ],
+      "correctAnswer": "C",
+      "simulatedUserAnswer": "D",
+      "isCorrect": false,
+      "explanation": "Case 2022-0123: Tropopausa First Engagement led to the formal articulation of the Doctrine of Sequential Suspension, as noted in the case notes. This doctrine is a significant development in PAMC's tactics and protocols. The other options do not mention the Doctrine of Sequential Suspension.",
+      "topicTags": [
+        "Tropopausa",
+        "Doctrine of Sequential Suspension"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10d875fc83e6163f595d",
+      "sectionId": "9",
+      "question": "What was the outcome of Case 2023-0067: El Sereno Pursuit?",
+      "choices": [
+        "A. Successful",
+        "B. Pyrrhic",
+        "C. Inconclusive",
+        "D. Catastrophic"
+      ],
+      "correctAnswer": "C",
+      "simulatedUserAnswer": "C",
+      "isCorrect": true,
+      "explanation": "The outcome of Case 2023-0067: El Sereno Pursuit was Inconclusive, as El Sereno disengaged at dawn and there were no reported casualties or captures. This case highlighted the limitations of nocturnal engagement profiles and led to recommendations for developing high-lux operation kits.",
+      "topicTags": [
+        "El Sereno",
+        "Case Outcomes"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10d875fc83e6163f595e",
+      "sectionId": "9",
+      "question": "Which facility or location is not mentioned in the provided case files?",
+      "choices": [
+        "A. Cuartel Valparaíso",
+        "B. Atacama Desert",
+        "C. Port District, Antofagasta",
+        "D. Mendoza Free Trade Zone"
+      ],
+      "correctAnswer": "A",
+      "simulatedUserAnswer": "A",
+      "isCorrect": true,
+      "explanation": "Cuartel Valparaíso is not mentioned in the provided case files, while the other options are all locations where PAMC operations took place. The case files provide details on various locations in Chile and Argentina, but Cuartel Valparaíso is not among them.",
+      "topicTags": [
+        "Facility Details",
+        "Cuartel Valparaíso"
+      ]
+    },
+    {
+      "questionDbId": "6a0b10d875fc83e6163f595f",
+      "sectionId": "9",
+      "question": "What type of information is typically included in the post-action notes of a case file?",
+      "choices": [
+        "A. Tactical protocols and doctrines",
+        "B. Operational details, such as asset performance and lessons learned",
+        "C. Classified information about adversaries and their affiliates",
+        "D. Rotation schedules for micro-cache locations"
+      ],
+      "correctAnswer": "B",
+      "simulatedUserAnswer": "B",
+      "isCorrect": true,
+      "explanation": "The post-action notes of a case file typically include operational details, such as asset performance, lessons learned, and any notable events or outcomes. This information helps PAMC to evaluate and improve their operations, as well as to identify areas for further development or training.",
+      "topicTags": [
+        "Case File Format",
+        "Post-Action Notes"
+      ]
+    }
+  ],
+  "score": {
+    "total": 15,
+    "correct": 11,
+    "wrong": 4,
+    "scorePct": 73
+  },
+  "adaptiveBehaviorNote": "Adaptive: questions focused on \"Cuartel Valparaíso\", \"Primary Base\", \"Facility Details\""
+}

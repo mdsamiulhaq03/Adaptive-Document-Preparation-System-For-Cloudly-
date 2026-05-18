@@ -1,0 +1,44 @@
+{
+  "name": "adaptive-doc-prep",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest --passWithNoTests",
+    "test:watch": "jest --watch",
+    "scenario:b": "ts-node --project tsconfig.scripts.json scripts/generate_outputs.ts"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "dotenv": "^17.4.2",
+    "framer-motion": "^12.38.0",
+    "groq-sdk": "^0.3.3",
+    "lucide-react": "^1.16.0",
+    "mongodb": "^7.2.0",
+    "next": "^16.2.6",
+    "pdf-parse": "^1.1.1",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "tailwind-merge": "^3.6.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^22.19.19",
+    "@types/pdf-parse": "^1.1.4",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@types/uuid": "^9.0.8",
+    "autoprefixer": "^10.4.19",
+    "jest": "^29.7.0",
+    "jest-environment-node": "^29.7.0",
+    "mongodb-memory-server": "^11.1.0",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "ts-jest": "^29.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}

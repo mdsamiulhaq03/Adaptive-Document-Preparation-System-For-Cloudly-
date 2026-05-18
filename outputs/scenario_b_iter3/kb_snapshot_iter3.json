@@ -1,0 +1,681 @@
+{
+  "exportedAt": "2026-05-18T13:15:30.745Z",
+  "iteration": 3,
+  "snapshot": [
+    {
+      "session": {
+        "session_id": "0fff9580-d4ae-4896-8977-aa33b54d21fe",
+        "created_at": "2026-05-18T13:15:04.105Z",
+        "sections": [
+          "8"
+        ],
+        "total_q": 5,
+        "correct_q": 2,
+        "score_pct": 40
+      },
+      "questions": [
+        {
+          "id": "6a0b10f275fc83e6163f5961",
+          "session_id": "0fff9580-d4ae-4896-8977-aa33b54d21fe",
+          "section_id": "8",
+          "question_text": "What is the primary function of the regional CBMP medical office located in Cuartel Valparaíso?",
+          "choices": [
+            "A. To provide medical support to Cell Halcón",
+            "B. To conduct research on local diseases",
+            "C. To develop new medical treatments",
+            "D. To store medical supplies"
+          ],
+          "correct_ans": "A",
+          "user_ans": "B",
+          "is_correct": false,
+          "explanation": "The regional CBMP medical office is located in Cuartel Valparaíso, which is the primary operational base of the asset, and its primary function is to provide medical support to Cell Halcón. The other options are not mentioned in the text and are therefore incorrect.",
+          "topic_tags": [
+            "Cuartel Valparaíso",
+            "Facility Details"
+          ],
+          "created_at": "2026-05-18T13:15:30.736Z"
+        },
+        {
+          "id": "6a0b10f275fc83e6163f5962",
+          "session_id": "0fff9580-d4ae-4896-8977-aa33b54d21fe",
+          "section_id": "8",
+          "question_text": "How often are the micro-cache locations rotated, and when will the next review take place?",
+          "choices": [
+            "A. Every 12 months, with the next review in 2026",
+            "B. Every 36 months, with the next review in 2027",
+            "C. Every 24 months, with the next review in 2028",
+            "D. Every 48 months, with the next review in 2029"
+          ],
+          "correct_ans": "B",
+          "user_ans": "B",
+          "is_correct": true,
+          "explanation": "The micro-cache locations are rotated every 36 months, and the current placements were finalized in 2024, which means the next review will take place in 2027. The other options are incorrect because they do not match the information provided in the text.",
+          "topic_tags": [
+            "Micro-Cache Network",
+            "Operational Territory"
+          ],
+          "created_at": "2026-05-18T13:15:30.737Z"
+        },
+        {
+          "id": "6a0b10f275fc83e6163f5963",
+          "session_id": "0fff9580-d4ae-4896-8977-aa33b54d21fe",
+          "section_id": "8",
+          "question_text": "What is the purpose of the standardized provisioning standard for the safehouses, and who audits it?",
+          "choices": [
+            "A. To provide a minimum level of supplies, audited by the asset",
+            "B. To provide a maximum level of supplies, audited by Cpl. Vendrame",
+            "C. To provide a standardized level of supplies, audited by Cpl. Vendrame",
+            "D. To provide a variable level of supplies, audited by the asset"
+          ],
+          "correct_ans": "C",
+          "user_ans": "A",
+          "is_correct": false,
+          "explanation": "The standardized provisioning standard for the safehouses is designed to provide a consistent level of supplies, and it is audited semi-annually by Cpl. Vendrame. The other options are incorrect because they do not accurately reflect the purpose or auditing process of the provisioning standard.",
+          "topic_tags": [
+            "Operational Safehouses",
+            "Facility Details"
+          ],
+          "created_at": "2026-05-18T13:15:30.738Z"
+        },
+        {
+          "id": "6a0b10f275fc83e6163f5964",
+          "session_id": "0fff9580-d4ae-4896-8977-aa33b54d21fe",
+          "section_id": "8",
+          "question_text": "What is the total number of micro-caches maintained by the asset across the Andean cordillera?",
+          "choices": [
+            "A. 15 micro-caches",
+            "B. 19 micro-caches",
+            "C. 20 micro-caches",
+            "D. 25 micro-caches"
+          ],
+          "correct_ans": "B",
+          "user_ans": "B",
+          "is_correct": true,
+          "explanation": "The asset maintains a network of 19 micro-caches distributed across the Andean cordillera. The other options are incorrect because they do not match the total number of micro-caches mentioned in the text.",
+          "topic_tags": [
+            "Micro-Cache Network",
+            "Operational Territory"
+          ],
+          "created_at": "2026-05-18T13:15:30.738Z"
+        },
+        {
+          "id": "6a0b10f275fc83e6163f5965",
+          "session_id": "0fff9580-d4ae-4896-8977-aa33b54d21fe",
+          "section_id": "8",
+          "question_text": "What type of cover is used by Safehouse S-5, located in Cuzco, Peru?",
+          "choices": [
+            "A. Urban apartment cover",
+            "B. Industrial cover",
+            "C. Religious-order cover",
+            "D. Coastal cover"
+          ],
+          "correct_ans": "C",
+          "user_ans": "B",
+          "is_correct": false,
+          "explanation": "Safehouse S-5, located in Cuzco, Peru, uses a religious-order cover, specifically Hermana Mendieta. The other options are incorrect because they do not match the type of cover used by Safehouse S-5.",
+          "topic_tags": [
+            "Operational Safehouses",
+            "Primary Base"
+          ],
+          "created_at": "2026-05-18T13:15:30.739Z"
+        }
+      ]
+    },
+    {
+      "session": {
+        "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+        "created_at": "2026-05-18T13:14:36.528Z",
+        "sections": [
+          "6",
+          "8",
+          "9"
+        ],
+        "total_q": 15,
+        "correct_q": 11,
+        "score_pct": 73.33333333333333
+      },
+      "questions": [
+        {
+          "id": "6a0b10d375fc83e6163f5951",
+          "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+          "section_id": "6",
+          "question_text": "What is the primary role of the Cooperative Bureau of Metahuman Physics (CBMP) within the Pan-American Metahuman Cooperative (PAMC)?",
+          "choices": [
+            "A. To oversee the Operations Directorate",
+            "B. To conduct research on metahuman physics",
+            "C. To manage the Logistics Directorate",
+            "D. To provide Behavioral Health services"
+          ],
+          "correct_ans": "B",
+          "user_ans": "B",
+          "is_correct": true,
+          "explanation": "The CBMP is one of the four directorates of the PAMC, and its name suggests a focus on metahuman physics research. The other options are incorrect because the CBMP is not responsible for overseeing the Operations Directorate, managing the Logistics Directorate, or providing Behavioral Health services.",
+          "topic_tags": [
+            "PAMC Directorates",
+            "CBMP"
+          ],
+          "created_at": "2026-05-18T13:14:59.216Z"
+        },
+        {
+          "id": "6a0b10d375fc83e6163f5952",
+          "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+          "section_id": "6",
+          "question_text": "What is the metahuman classification of Lt. Solène Bauer-Cortez, and what is her corresponding ability?",
+          "choices": [
+            "A. Class A-1, superhuman strength",
+            "B. Class C-1, electromagnetic sensing",
+            "C. Class B-2, enhanced agility",
+            "D. Class D-3, telepathy"
+          ],
+          "correct_ans": "B",
+          "user_ans": "B",
+          "is_correct": true,
+          "explanation": "According to the text, Lt. Solène Bauer-Cortez has a metahuman classification of Class C-1, which corresponds to electromagnetic sensing, allowing her to perceive EM emissions from 30 Hz to 6 GHz within 80 m.",
+          "topic_tags": [
+            "Metahuman Classifications",
+            "Cell Halcón Members"
+          ],
+          "created_at": "2026-05-18T13:14:59.217Z"
+        },
+        {
+          "id": "6a0b10d375fc83e6163f5953",
+          "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+          "section_id": "6",
+          "question_text": "What is the significance of the Treaty of Quito in the context of the Pan-American Metahuman Cooperative (PAMC)?",
+          "choices": [
+            "A. It established the PAMC as a subsidiary of the United Nations",
+            "B. It founded the PAMC through an agreement among nine Western Hemisphere states",
+            "C. It marked the beginning of the PAMC's Operations Directorate",
+            "D. It led to the dissolution of the PAMC"
+          ],
+          "correct_ans": "B",
+          "user_ans": "C",
+          "is_correct": false,
+          "explanation": "The Treaty of Quito is mentioned in the text as the founding document of the PAMC, signed by nine Western Hemisphere states on 22 May 2014.",
+          "topic_tags": [
+            "PAMC History",
+            "Treaty of Quito"
+          ],
+          "created_at": "2026-05-18T13:14:59.218Z"
+        },
+        {
+          "id": "6a0b10d375fc83e6163f5954",
+          "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+          "section_id": "6",
+          "question_text": "What is the role of Cpl. Raúl Vendrame within Cell Halcón, and what is his area of expertise?",
+          "choices": [
+            "A. Lead Officer, metahuman physics",
+            "B. Technical Specialist, electrical engineering",
+            "C. Field Medic, trauma surgery and altitude medicine",
+            "D. Tracker, high-altitude reconnaissance"
+          ],
+          "correct_ans": "C",
+          "user_ans": "D",
+          "is_correct": false,
+          "explanation": "Cpl. Raúl Vendrame is the Field Medic of Cell Halcón, with expertise in trauma surgery, altitude medicine, and metahuman physiology, as stated in the text.",
+          "topic_tags": [
+            "Cell Halcón Members",
+            "Medical Expertise"
+          ],
+          "created_at": "2026-05-18T13:14:59.219Z"
+        },
+        {
+          "id": "6a0b10d375fc83e6163f5955",
+          "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+          "section_id": "6",
+          "question_text": "Who is the Director-General of the Pan-American Metahuman Cooperative (PAMC), and what is the duration of their term?",
+          "choices": [
+            "A. María-Elena Espósito-Tagle, 2020-2025",
+            "B. Aída Salvatierra-Bunge, 2022-2027",
+            "C. María-Elena Espósito-Tagle, 2022-2027",
+            "D. Director Salvatierra, 2015-2020"
+          ],
+          "correct_ans": "C",
+          "user_ans": "C",
+          "is_correct": true,
+          "explanation": "The text states that María-Elena Espósito-Tagle is the Director-General of the PAMC, serving a term from 2022 to 2027.",
+          "topic_tags": [
+            "PAMC Leadership",
+            "Director-General"
+          ],
+          "created_at": "2026-05-18T13:14:59.220Z"
+        },
+        {
+          "id": "6a0b10d575fc83e6163f5956",
+          "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+          "section_id": "8",
+          "question_text": "What is the primary function of Cuartel Valparaíso, the asset's primary operational base?",
+          "choices": [
+            "A. Logistics-only annex",
+            "B. PAMC Headquarters",
+            "C. Field office for Bolivian altiplano operations",
+            "D. PAMC South Cone Headquarters"
+          ],
+          "correct_ans": "D",
+          "user_ans": "D",
+          "is_correct": true,
+          "explanation": "Cuartel Valparaíso is designated as PAMC South Cone Headquarters, indicating its primary function as the main hub for the asset's operations in the region. The other options are incorrect as they describe different facilities or functions.",
+          "topic_tags": [
+            "Cuartel Valparaíso",
+            "Primary Base"
+          ],
+          "created_at": "2026-05-18T13:15:01.535Z"
+        },
+        {
+          "id": "6a0b10d575fc83e6163f5957",
+          "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+          "section_id": "8",
+          "question_text": "What type of cover does Safehouse S-5 provide, and in which region is it located?",
+          "choices": [
+            "A. Industrial cover in Argentina",
+            "B. Religious-order cover in Peru",
+            "C. Coastal cover in Chile",
+            "D. Urban apartment cover in Bolivia"
+          ],
+          "correct_ans": "B",
+          "user_ans": "B",
+          "is_correct": true,
+          "explanation": "Safehouse S-5 is located in Cuzco, Peru, and provides a religious-order cover, specifically as Hermana Mendieta. The other options are incorrect as they describe different safehouses or locations.",
+          "topic_tags": [
+            "Safehouse S-5",
+            "Operational Safehouses"
+          ],
+          "created_at": "2026-05-18T13:15:01.536Z"
+        },
+        {
+          "id": "6a0b10d575fc83e6163f5958",
+          "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+          "section_id": "8",
+          "question_text": "How often are the micro-cache locations rotated, and when were the current placements finalized?",
+          "choices": [
+            "A. Every 12 months, finalized in 2022",
+            "B. Every 36 months, finalized in 2024",
+            "C. Every 24 months, finalized in 2023",
+            "D. Every 48 months, finalized in 2020"
+          ],
+          "correct_ans": "B",
+          "user_ans": "B",
+          "is_correct": true,
+          "explanation": "The micro-cache locations are rotated every 36 months, and the current placements were finalized in 2024. The other options are incorrect as they describe different rotation periods or finalization dates.",
+          "topic_tags": [
+            "Micro-Cache Network",
+            "Facility Details"
+          ],
+          "created_at": "2026-05-18T13:15:01.537Z"
+        },
+        {
+          "id": "6a0b10d575fc83e6163f5959",
+          "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+          "section_id": "8",
+          "question_text": "What is the total floor area of Cuartel Valparaíso, and what is its personnel capacity?",
+          "choices": [
+            "A. 3,000 m², 20 residential and 100 working",
+            "B. 4,820 m², 38 residential and 142 working",
+            "C. 5,500 m², 50 residential and 200 working",
+            "D. 2,500 m², 15 residential and 50 working"
+          ],
+          "correct_ans": "B",
+          "user_ans": "B",
+          "is_correct": true,
+          "explanation": "Cuartel Valparaíso has a total floor area of 4,820 m² and a personnel capacity of 38 residential and 142 working. The other options are incorrect as they describe different floor areas or capacities.",
+          "topic_tags": [
+            "Cuartel Valparaíso",
+            "Facility Details"
+          ],
+          "created_at": "2026-05-18T13:15:01.538Z"
+        },
+        {
+          "id": "6a0b10d575fc83e6163f595a",
+          "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+          "section_id": "8",
+          "question_text": "What is the purpose of the standardized provisioning standard for the safehouses, and who audits it?",
+          "choices": [
+            "A. To provide a 30-day ration supply for 2 personnel, audited by the asset",
+            "B. To provide a 30-day ration supply for 4 personnel, audited by Cpl. Vendrame",
+            "C. To provide a 60-day ration supply for 6 personnel, audited by the cell leader",
+            "D. To provide a 90-day ration supply for 8 personnel, audited by PAMC Headquarters"
+          ],
+          "correct_ans": "B",
+          "user_ans": "B",
+          "is_correct": true,
+          "explanation": "The standardized provisioning standard for the safehouses is designed to provide a 30-day ration supply for 4 personnel, and it is audited semi-annually by Cpl. Vendrame on behalf of the cell. The other options are incorrect as they describe different ration supplies or auditing procedures.",
+          "topic_tags": [
+            "Operational Safehouses",
+            "Facility Details"
+          ],
+          "created_at": "2026-05-18T13:15:01.538Z"
+        },
+        {
+          "id": "6a0b10d875fc83e6163f595b",
+          "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+          "section_id": "9",
+          "question_text": "What is the primary purpose of the uniform PAMC format for case files?",
+          "choices": [
+            "A. To provide a template for declassifying sensitive information",
+            "B. To standardize the reporting of case details and outcomes",
+            "C. To facilitate the rotation of micro-cache locations",
+            "D. To evaluate the performance of safehouses"
+          ],
+          "correct_ans": "B",
+          "user_ans": "A",
+          "is_correct": false,
+          "explanation": "The uniform PAMC format is used to standardize the reporting of case details and outcomes, making it easier to compare and analyze different cases. This format includes key information such as case number, date, location, classification, outcome, and casualties. The other options are not directly related to the purpose of the PAMC format.",
+          "topic_tags": [
+            "Case File Format",
+            "PAMC"
+          ],
+          "created_at": "2026-05-18T13:15:04.092Z"
+        },
+        {
+          "id": "6a0b10d875fc83e6163f595c",
+          "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+          "section_id": "9",
+          "question_text": "Which case led to the formal articulation of the Doctrine of Sequential Suspension?",
+          "choices": [
+            "A. Case 2019-0017: Probationary Assessment",
+            "B. Case 2020-0048: Antofagasta Containment",
+            "C. Case 2022-0123: Tropopausa First Engagement",
+            "D. Case 2023-0067: El Sereno Pursuit"
+          ],
+          "correct_ans": "C",
+          "user_ans": "D",
+          "is_correct": false,
+          "explanation": "Case 2022-0123: Tropopausa First Engagement led to the formal articulation of the Doctrine of Sequential Suspension, as noted in the case notes. This doctrine is a significant development in PAMC's tactics and protocols. The other options do not mention the Doctrine of Sequential Suspension.",
+          "topic_tags": [
+            "Tropopausa",
+            "Doctrine of Sequential Suspension"
+          ],
+          "created_at": "2026-05-18T13:15:04.094Z"
+        },
+        {
+          "id": "6a0b10d875fc83e6163f595d",
+          "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+          "section_id": "9",
+          "question_text": "What was the outcome of Case 2023-0067: El Sereno Pursuit?",
+          "choices": [
+            "A. Successful",
+            "B. Pyrrhic",
+            "C. Inconclusive",
+            "D. Catastrophic"
+          ],
+          "correct_ans": "C",
+          "user_ans": "C",
+          "is_correct": true,
+          "explanation": "The outcome of Case 2023-0067: El Sereno Pursuit was Inconclusive, as El Sereno disengaged at dawn and there were no reported casualties or captures. This case highlighted the limitations of nocturnal engagement profiles and led to recommendations for developing high-lux operation kits.",
+          "topic_tags": [
+            "El Sereno",
+            "Case Outcomes"
+          ],
+          "created_at": "2026-05-18T13:15:04.094Z"
+        },
+        {
+          "id": "6a0b10d875fc83e6163f595e",
+          "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+          "section_id": "9",
+          "question_text": "Which facility or location is not mentioned in the provided case files?",
+          "choices": [
+            "A. Cuartel Valparaíso",
+            "B. Atacama Desert",
+            "C. Port District, Antofagasta",
+            "D. Mendoza Free Trade Zone"
+          ],
+          "correct_ans": "A",
+          "user_ans": "A",
+          "is_correct": true,
+          "explanation": "Cuartel Valparaíso is not mentioned in the provided case files, while the other options are all locations where PAMC operations took place. The case files provide details on various locations in Chile and Argentina, but Cuartel Valparaíso is not among them.",
+          "topic_tags": [
+            "Facility Details",
+            "Cuartel Valparaíso"
+          ],
+          "created_at": "2026-05-18T13:15:04.095Z"
+        },
+        {
+          "id": "6a0b10d875fc83e6163f595f",
+          "session_id": "dfa53034-e035-41a7-bbe0-bf8527f75326",
+          "section_id": "9",
+          "question_text": "What type of information is typically included in the post-action notes of a case file?",
+          "choices": [
+            "A. Tactical protocols and doctrines",
+            "B. Operational details, such as asset performance and lessons learned",
+            "C. Classified information about adversaries and their affiliates",
+            "D. Rotation schedules for micro-cache locations"
+          ],
+          "correct_ans": "B",
+          "user_ans": "B",
+          "is_correct": true,
+          "explanation": "The post-action notes of a case file typically include operational details, such as asset performance, lessons learned, and any notable events or outcomes. This information helps PAMC to evaluate and improve their operations, as well as to identify areas for further development or training.",
+          "topic_tags": [
+            "Case File Format",
+            "Post-Action Notes"
+          ],
+          "created_at": "2026-05-18T13:15:04.096Z"
+        }
+      ]
+    },
+    {
+      "session": {
+        "session_id": "bbf514a0-bf23-4f37-90de-9e5e5a8c7d1f",
+        "created_at": "2026-05-18T13:14:31.118Z",
+        "sections": [
+          "5",
+          "8"
+        ],
+        "total_q": 10,
+        "correct_q": 3,
+        "score_pct": 30
+      },
+      "questions": [
+        {
+          "id": "6a0b10b975fc83e6163f5946",
+          "session_id": "bbf514a0-bf23-4f37-90de-9e5e5a8c7d1f",
+          "section_id": "5",
+          "question_text": "What is the primary principle behind the Doctrine of Sequential Suspension regarding suspension activation?",
+          "choices": [
+            "A. Treat each activation as a continuous capability",
+            "B. Treat each activation as ammunition",
+            "C. Activation should be done in pairs",
+            "D. Activation should be done randomly"
+          ],
+          "correct_ans": "B",
+          "user_ans": "C",
+          "is_correct": false,
+          "explanation": "The Doctrine of Sequential Suspension states that suspension is a decisive resource, not a continuous capability, and thus each activation should be treated as ammunition, emphasizing the need for careful and strategic use. This principle guides the operative's approach to utilizing suspension effectively in combat.",
+          "topic_tags": [
+            "Doctrine of Sequential Suspension",
+            "Operational Tactics"
+          ],
+          "created_at": "2026-05-18T13:14:33.635Z"
+        },
+        {
+          "id": "6a0b10b975fc83e6163f5947",
+          "session_id": "bbf514a0-bf23-4f37-90de-9e5e5a8c7d1f",
+          "section_id": "5",
+          "question_text": "According to the Three-Two-One Rule, what is the maximum number of activations permitted within a 60-second window?",
+          "choices": [
+            "A. 2 activations",
+            "B. 3 activations",
+            "C. 4 activations",
+            "D. 5 activations"
+          ],
+          "correct_ans": "B",
+          "user_ans": "C",
+          "is_correct": false,
+          "explanation": "The Three-Two-One Rule, a tactical heuristic, specifies that there should be no more than three activations maximum per 60-second window to maintain operational discipline and avoid unnecessary risks.",
+          "topic_tags": [
+            "Three-Two-One Rule",
+            "Tactical Heuristics"
+          ],
+          "created_at": "2026-05-18T13:14:33.638Z"
+        },
+        {
+          "id": "6a0b10b975fc83e6163f5948",
+          "session_id": "bbf514a0-bf23-4f37-90de-9e5e5a8c7d1f",
+          "section_id": "5",
+          "question_text": "What is the requirement for engaging a Tier 3 threat according to the Tier-Based Engagement Protocols?",
+          "choices": [
+            "A. Solo engagement with full authority",
+            "B. Cell required with lead authority and Three-Two-One rule enforced strictly",
+            "C. Cell required with full authority and no restrictions",
+            "D. Solo engagement with restricted authority"
+          ],
+          "correct_ans": "B",
+          "user_ans": "C",
+          "is_correct": false,
+          "explanation": "For Tier 3 threats, the protocols dictate that engagement requires a cell and the lead authority must enforce the Three-Two-One rule strictly, emphasizing the need for coordinated team action and adherence to tactical guidelines.",
+          "topic_tags": [
+            "Tier-Based Engagement Protocols",
+            "Threat Tiers"
+          ],
+          "created_at": "2026-05-18T13:14:33.640Z"
+        },
+        {
+          "id": "6a0b10b975fc83e6163f5949",
+          "session_id": "bbf514a0-bf23-4f37-90de-9e5e5a8c7d1f",
+          "section_id": "5",
+          "question_text": "What is the key element of the Tail-Strike Technique that makes it effective?",
+          "choices": [
+            "A. Using linear projectile motion",
+            "B. Exploiting Tail Momentum to deliver compounded impacts",
+            "C. Throwing the baton without suspension",
+            "D. Repositioning the baton after it has struck the target"
+          ],
+          "correct_ans": "B",
+          "user_ans": "C",
+          "is_correct": false,
+          "explanation": "The Tail-Strike Technique exploits Tail Momentum by suspending and repositioning the baton mid-flight, allowing for a strike delivered at full velocity but from an arbitrary location, making it difficult for the adversary to counter-predict the trajectory.",
+          "topic_tags": [
+            "Tail-Strike Technique",
+            "Operational Tactics"
+          ],
+          "created_at": "2026-05-18T13:14:33.641Z"
+        },
+        {
+          "id": "6a0b10b975fc83e6163f594a",
+          "session_id": "bbf514a0-bf23-4f37-90de-9e5e5a8c7d1f",
+          "section_id": "5",
+          "question_text": "What is the asset not authorized to do when facing a Tier 5 threat?",
+          "choices": [
+            "A. Engage solo with full authority",
+            "B. Engage with a cell and lead authority",
+            "C. Use the Tail-Strike Technique",
+            "D. Follow the Three-Two-One Rule"
+          ],
+          "correct_ans": "A",
+          "user_ans": "B",
+          "is_correct": false,
+          "explanation": "The asset is not authorized to engage Tier 5 threats solo under any condition, highlighting the high-risk nature of such threats and the necessity for coordinated team engagement with appropriate authorization.",
+          "topic_tags": [
+            "Tier-Based Engagement Protocols",
+            "Authorization Requirements"
+          ],
+          "created_at": "2026-05-18T13:14:33.641Z"
+        },
+        {
+          "id": "6a0b10bc75fc83e6163f594b",
+          "session_id": "bbf514a0-bf23-4f37-90de-9e5e5a8c7d1f",
+          "section_id": "8",
+          "question_text": "What is the primary function of Cuartel Valparaíso?",
+          "choices": [
+            "A. PAMC Headquarters",
+            "B. Field office for Bolivian altiplano operations",
+            "C. Logistics-only annex for southern operations",
+            "D. Primary operational base for the asset"
+          ],
+          "correct_ans": "D",
+          "user_ans": "C",
+          "is_correct": false,
+          "explanation": "Cuartel Valparaíso is designated as the asset's primary operational base, serving as the PAMC South Cone Headquarters. The other options describe functions of secondary bases, not Cuartel Valparaíso. This indicates that Cuartel Valparaíso is the main hub for the asset's operations.",
+          "topic_tags": [
+            "Primary Base",
+            "Cuartel Valparaíso"
+          ],
+          "created_at": "2026-05-18T13:14:36.517Z"
+        },
+        {
+          "id": "6a0b10bc75fc83e6163f594c",
+          "session_id": "bbf514a0-bf23-4f37-90de-9e5e5a8c7d1f",
+          "section_id": "8",
+          "question_text": "What is the purpose of the safehouses within the asset's operational territory?",
+          "choices": [
+            "A. To provide temporary housing for visiting personnel",
+            "B. To serve as logistics-only annexes",
+            "C. To offer residential cover for the asset",
+            "D. To function as field offices for regional operations"
+          ],
+          "correct_ans": "C",
+          "user_ans": "C",
+          "is_correct": true,
+          "explanation": "The safehouses are formally maintained to provide residential cover for the asset, allowing her to operate discreetly within her operational territory. Each safehouse has a standardized provisioning standard, indicating their purpose is to support the asset's covert operations.",
+          "topic_tags": [
+            "Operational Safehouses",
+            "Residential Cover"
+          ],
+          "created_at": "2026-05-18T13:14:36.518Z"
+        },
+        {
+          "id": "6a0b10bc75fc83e6163f594d",
+          "session_id": "bbf514a0-bf23-4f37-90de-9e5e5a8c7d1f",
+          "section_id": "8",
+          "question_text": "How often are the micro-cache locations rotated?",
+          "choices": [
+            "A. Every 12 months",
+            "B. Every 24 months",
+            "C. Every 36 months",
+            "D. Every 48 months"
+          ],
+          "correct_ans": "C",
+          "user_ans": "C",
+          "is_correct": true,
+          "explanation": "The micro-cache locations are rotated every 36 months, with the current placements finalized in 2024 and scheduled for review in 2027. This rotation helps maintain the security and effectiveness of the micro-cache network.",
+          "topic_tags": [
+            "Micro-Cache Network",
+            "Cache Rotation"
+          ],
+          "created_at": "2026-05-18T13:14:36.519Z"
+        },
+        {
+          "id": "6a0b10bc75fc83e6163f594e",
+          "session_id": "bbf514a0-bf23-4f37-90de-9e5e5a8c7d1f",
+          "section_id": "8",
+          "question_text": "What is the total floor area of Cuartel Valparaíso?",
+          "choices": [
+            "A. 2,820 m²",
+            "B. 3,820 m²",
+            "C. 4,820 m²",
+            "D. 5,820 m²"
+          ],
+          "correct_ans": "C",
+          "user_ans": "B",
+          "is_correct": false,
+          "explanation": "According to the provided information, the total floor area of Cuartel Valparaíso is 4,820 m². This is a key detail about the facility's size and capacity.",
+          "topic_tags": [
+            "Cuartel Valparaíso",
+            "Facility Details"
+          ],
+          "created_at": "2026-05-18T13:14:36.519Z"
+        },
+        {
+          "id": "6a0b10bc75fc83e6163f594f",
+          "session_id": "bbf514a0-bf23-4f37-90de-9e5e5a8c7d1f",
+          "section_id": "8",
+          "question_text": "What type of cover does safehouse S-5 provide?",
+          "choices": [
+            "A. Industrial cover",
+            "B. Urban apartment cover",
+            "C. Coastal, residential cover",
+            "D. Religious-order cover"
+          ],
+          "correct_ans": "D",
+          "user_ans": "D",
+          "is_correct": true,
+          "explanation": "Safehouse S-5, located in Cuzco, Peru, provides religious-order cover, specifically using the cover of Hermana Mendieta. This unique cover allows the asset to operate in a sensitive region.",
+          "topic_tags": [
+            "Safehouses",
+            "Religious-Order Cover"
+          ],
+          "created_at": "2026-05-18T13:14:36.520Z"
+        }
+      ]
+    }
+  ]
+}
