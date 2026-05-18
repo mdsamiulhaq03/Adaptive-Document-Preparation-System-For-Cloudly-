@@ -66,18 +66,6 @@ npm run dev
 | `DELETE` | `/api/history/:sessionId` | Delete a session and its questions |
 | `GET` | `/api/snapshot` | Export recent sessions as JSON (for evaluation) |
 
----
-
-## Environment Variables
-
-| Variable | Default | Description |
-|---|---|---|
-| `GROQ_API_KEY` | *(required)* | Groq API key. Without one, a mock LLM is used. |
-| `GROQ_MODEL` | `llama-3.3-70b-versatile` | Model ID. Use `llama-3.1-8b-instant` for faster dev. |
-| `MCQ_PER_SECTION` | `5` | Questions generated per section. |
-| `MONGODB_URI` | `mongodb://localhost:27017` | Falls back to embedded MongoDB if unreachable. |
-| `MONGODB_DB` | `adaptive_doc_prep` | Database name. |
-| `PDF_PATH` | `./data/SLATEFALL_DOSSIER.pdf` | Path to input PDF. |
 
 ---
 
