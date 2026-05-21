@@ -69,6 +69,38 @@ npm run dev
 
 ---
 
+## Database Schema
+
+The app uses two MongoDB collections.
+
+### `sessions`
+
+| Field | Type | Description |
+|---|---|---|
+| `session_id` | `string` (UUID) | Primary key |
+| `created_at` | `string` (ISO 8601) | Session creation timestamp |
+| `sections` | `string[]` | Section IDs studied in this session |
+| `total_q` | `number` | Total questions generated |
+| `correct_q` | `number` | Number of correct answers |
+| `score_pct` | `number` | Percentage correct |
+
+### `questions`
+
+| Field | Type | Description |
+|---|---|---|
+| `session_id` | `string` | References the parent session |
+| `section_id` | `string` | Section this question came from |
+| `question_text` | `string` | The question string |
+| `choices` | `string[]` | Answer options, e.g. `["A. ...", "B. ...", "C. ...", "D. ..."]` |
+| `correct_ans` | `string` | Correct answer letter (`A`/`B`/`C`/`D`) |
+| `user_ans` | `string \| null` | User's submitted answer (`null` until submitted) |
+| `is_correct` | `boolean \| null` | Whether the answer was correct (`null` until submitted) |
+| `explanation` | `string` | LLM-generated clarification |
+| `topic_tags` | `string[]` | Concept labels extracted by the LLM |
+| `created_at` | `string` (ISO 8601) | Question creation timestamp |
+
+---
+
 ## Tests
 
 ```bash

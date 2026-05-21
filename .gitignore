@@ -40,4 +40,4 @@ data/mongodb/
 # script output
 .script-dist/
 
-notes.txt
+*.txt
