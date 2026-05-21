@@ -118,23 +118,4 @@ GROQ_API_KEY=gsk_... docker-compose up
 # → http://localhost:3000
 ```
 
-PDF and MongoDB data are persisted in named volumes across restarts.
-
----
-
-## How I Built This
-
-The goal was an adaptive study loop: generate MCQs from a PDF, track wrong answers by topic, and bias every subsequent session toward the user's weakest areas.
-
-I split the work into four clear layers — PDF parsing, LLM generation, storage, and scoring — so each piece could be built and debugged independently.
-
-**The trickiest parts:**
-
-- **PDF parsing** — raw PDF text is messy. The extractor looks for `Section N` / `Chapter N` headings and falls back to ~800-word chunks if none are found, so it works on any PDF. A built-in demo mode means the app runs without a real PDF at all.
-- **Reliable LLM output** — Groq sometimes wraps JSON in markdown fences or adds commentary. `parseMCQResponse()` strips fences, locates the JSON array by bracket position, and validates each MCQ individually so a single bad item doesn't kill the whole response. Exponential backoff (1s, 2s) handles transient API failures.
-- **The adaptive loop** — `getWeakTopics()` runs a MongoDB aggregation over past wrong answers, ranked by `topic_tags` frequency. Those topics get injected into the LLM system prompt so new questions target exactly where the user keeps failing. Mastered questions are tracked separately and the LLM is told to avoid repeating them.
-- **Embedded MongoDB + HMR** — to avoid forcing users to install MongoDB, the app auto-starts `mongodb-memory-server`. Next.js hot-reload kept creating new `MongoClient` instances and hitting a `DBPathInUse` lock. Fixed by caching the client on `globalThis` and cleaning up stale lock files on startup.
-
-**What didn't work:** vague prompt wording ("deep understanding") produced recall questions — explicit instructions fixed it. SQLite was the first DB choice; MongoDB's native arrays and aggregation pipelines fit the MCQ schema much better.
-
-**Takeaway:** the hard part wasn't the AI — it was the plumbing. I'd enforce JSON mode via the API from day one rather than writing defensive parsing after the fact.
+-
